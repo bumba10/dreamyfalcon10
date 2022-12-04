@@ -12,6 +12,7 @@ def ankur(x, y):
     t.pensize(2)
     t.speed(10)
 
+#made by MRINMOY DEY (BUMBA10)#
 
 def golo(r, color):
     x_point = 0
